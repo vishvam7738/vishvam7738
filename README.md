@@ -2,7 +2,7 @@
 
  ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently pursuing my B.Tech. CSE(Final Year) from LNMIIT, Jaipur.  
+- 🔭 I'm a final-year B.Tech. CSE student at LNMIIT, Jaipur.
 
 - 🌱 I’m currently learning Next.JS
 
@@ -36,7 +36,7 @@
 <!--     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  -->
     </p>
 
-## 🤝Connect with me:
+## 🤝 Connect with me:
 <p align="left">
 
 
