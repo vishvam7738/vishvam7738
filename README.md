@@ -2,7 +2,7 @@
 
  ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently pursuing my Bachelor of Technology in Computer Science and Engineering(B.Tech. CSE).  
+- 🔭 I’m currently pursuing my B.Tech. CSE(Final Year) from LNMIIT, Jaipur.  
 
 - 🌱 I’m currently learning Next.JS
 
@@ -43,7 +43,7 @@
 <a href="https://linkedin.com/in/vishvamagarwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvam" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishvam7738" height="30" width="40" /></a>
 <a href="https://vishvam-portfolio2.vercel.app/" target="blank">
-  <img align="center" src="portfolio.png" alt="Portfolio" height="30" width="40" />
+  <img align="center" src="portfolio_.png" alt="Portfolio" height="30" width="40" />
 </a>
 <a href="https://leetcode.com/stwie/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishvam" height="30" width="40" /></a>
   
