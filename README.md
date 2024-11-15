@@ -29,18 +29,51 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
 <p align="center">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
-<!--  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px"> -->
-<!--  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px"> -->
-<!--  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px"> -->
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
-<!--  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px"> -->
+  <!-- HTML logo -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="32" height="32" style="vertical-align:top; margin:4px">
+    <path d="M16 0h96c8.84 0 16 7.16 16 16v96c0 8.84-7.16 16-16 16H16c-8.84 0-16-7.16-16-16V16c0-8.84 7.16-16 16-16z" fill="#E44D26"/>
+    <path d="M96 16h-32v96h32c8.84 0 16-7.16 16-16V32c0-8.84-7.16-16-16-16zM48 16h-32v96h32c8.84 0 16-7.16 16-16V32c0-8.84-7.16-16-16-16z" fill="#F16529"/>
+  </svg>
+
+  <!-- JavaScript logo -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="32" height="32" style="vertical-align:top; margin:4px">
+    <path d="M5.6 1.2h117c2.2 0 3.8 1.8 3.8 4v117c0 2.2-1.6 4-3.8 4H5.6c-2.2 0-3.8-1.8-3.8-4V5.2c0-2.2 1.6-4 3.8-4z" fill="#F7DF1E"/>
+    <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" font-size="48" fill="#000">JS</text>
+  </svg>
+
+  <!-- Python logo -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="32" height="32" style="vertical-align:top; margin:4px">
+    <path d="M65.7 0h-3.4c-8.3 0-15 6.7-15 15v15h30V15c0-8.3-6.7-15-15-15zM93 19h-5.8v10.5H50.8V19h-6.8c-7.3 0-13.2 5.9-13.2 13.2v23.7c0 7.3 5.9 13.2 13.2 13.2h20.2v6.1h-13.2V99h32.2v-6.1h-13.2v-6.9h21.2c7.3 0 13.2-5.9 13.2-13.2V32.2c0-7.3-5.9-13.2-13.2-13.2z" fill="#306998"/>
+  </svg>
+
+  <!-- NPM logo -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="32" height="32" style="vertical-align:top; margin:4px">
+    <rect width="128" height="128" fill="#cb3837"/>
+    <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" font-size="48" fill="#fff">NPM</text>
+  </svg>
+
+  <!-- Visual Studio Code logo -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="32" height="32" style="vertical-align:top; margin:4px">
+    <g fill="#007ACC">
+      <path d="M16 0h96c8.8 0 16 7.2 16 16v96c0 8.8-7.2 16-16 16H16c-8.8 0-16-7.2-16-16V16c0-8.8 7.2-16 16-16z"/>
+      <path d="M88 48L56 80 56 72 80 56H48V40H88z"/>
+    </g>
+  </svg>
+
+  <!-- Visual Studio logo -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="32" height="32" style="vertical-align:top; margin:4px">
+    <path fill="#5C2D91" d="M0 64c0 35.3 28.7 64 64 64s64-28.7 64-64S98.3 0 64 0 0 28.7 0 64z"/>
+    <path fill="#FFFFFF" d="M64 29.5l-3.7 3.7 34.7 34.7H42.7l34.7-34.7-3.7-3.7-38.4 38.4 38.4 38.4h38.4V29.5H64z"/>
+  </svg>
+
+  <!-- PyCharm logo -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="32" height="32" style="vertical-align:top; margin:4px">
+    <rect x="5" y="5" width="118" height="118" fill="#000"/>
+    <path fill="#FFD43B" d="M10 10h108v108H10z"/>
+    <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" font-size="48" fill="#000">P</text>
+  </svg>
 </p>
+
 
 
 <br />
