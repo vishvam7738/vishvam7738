@@ -58,11 +58,12 @@
 ##
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishvam7738&theme=dark" alt="streaks" />
 </p>
-
+<!--
 ##
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+-->
 
 
 ## 
