@@ -10,7 +10,7 @@
 
 - 🔭 I'm a final-year B.Tech. CSE student at LNMIIT, Jaipur.
 
-- 🌱 I’m currently learning Next.JS
+<!-- - 🌱 I’m currently learning Next.JS --->
 
 - 📫 Reach me at **vishvam.agarwal084@gmail.com**
   
