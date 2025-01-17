@@ -64,15 +64,12 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 -->
-
-
-## 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=vishvam7738" alt="vishvam7738" /> </p>
 
 <!--  <p align="right">Profile Views 👀> <img src="https://profile-counter.glitch.me/vishvam7738/count.svg" height="50" alt="Profile Views"  /> </p>-->
 
 
-<br />
+
 
 <!-- </p> -->
 
